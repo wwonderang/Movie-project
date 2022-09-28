@@ -1,0 +1,33 @@
+.cinema-header {
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  height: 100px;
+  background-color: #a8a2a274;
+}
+
+img {
+  border-radius: 30px;
+  height: 100%;
+}
+
+button {
+  background-color: #b1b1b1d4;
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+  color: rgb(46, 48, 45);
+  border: none;
+  border-radius: 9px;
+  font-size: 14px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin-right: 40px;
+}
+
+.greeting {
+  padding: 15px;
+}
+
+.user-icon {
+  cursor: pointer;
+}

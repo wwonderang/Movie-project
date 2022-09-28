@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.modal-title,
+.modal-title-sign-up {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.showPswSgnIn, 
+.showPswSgnUp,
+.showPswSgnUpRep {
+  position: absolute;
+  cursor: pointer;
+  right: 33px;
+}
+
+.showPswSgnIn {
+  top: 130px;
+}
+
+.showPswSgnUp {
+  top: 270px;
+}
+
+.showPswSgnUpRep {
+  top: 315px;
+}
+
+.error-message {
+  text-align: left;
+  color: red;
+}
+
+.sign-in-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

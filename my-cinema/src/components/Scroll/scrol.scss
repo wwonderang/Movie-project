@@ -1,0 +1,14 @@
+.arrowIcon {
+  position: fixed;
+  top: 150px;
+  left: 15px;
+  width: 45px;
+  height: 45px;
+  cursor: pointer;
+  color: #808080f3;
+  transition: ease-in-out 2s;
+}
+
+.arrowIcon:hover {
+  color:#c500004b;
+}

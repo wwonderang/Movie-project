@@ -1,0 +1,27 @@
+.movie-list {
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.city-name {
+  height: 40px;
+  width: 70px;
+  position: absolute;
+  top: 30px;
+  left: 180px;
+  background-color: #d29d581f;
+}
+
+.search-input {
+  padding: 5px;
+  text-align: center;
+  margin-left: 44%;
+  margin-top: 10px;
+  
+}
+
+.total-movies-amount {
+  text-align: center;
+}
